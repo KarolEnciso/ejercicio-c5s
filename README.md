@@ -1,0 +1,1 @@
+Este es el detalle de lo qe contiene el repositorio
