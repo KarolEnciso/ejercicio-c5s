@@ -2,3 +2,5 @@ La hamburguesa tiene estos ingredientes:
 1. Pan
 2. Lechuga
 3. Carne
+
+Se puede acompañar de papitas a la francesa con coca-cola.
